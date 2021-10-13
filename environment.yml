@@ -1,9 +1,7 @@
 name: steamlit
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - streamlit
   - matplotlib
   - scipy
 prefix: /Users/nick/miniconda3/envs/steamlit
