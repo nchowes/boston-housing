@@ -1,2 +1,2 @@
 # boston-housing
-Demo of Boston metro housing data. 
+Demo of Metro Boston housing data. 
