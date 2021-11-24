@@ -1,0 +1,12 @@
+# Byte compile
+__pycache__/
+*.py[cod] 
+
+#OS
+.DS_Store
+
+#SQL
+*.log
+
+#Project 
+figures/
