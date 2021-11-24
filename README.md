@@ -2,8 +2,6 @@
 
 ## Metro Boston housing data analysis.   
 
-&nbsp;
-
 Description:
 Metro Boston housing prices and days on market for the period 2013-2020. Project contains housing market analysis, visualizations, and deployment to a [Streamlit App](https://share.streamlit.io/nchowes/boston-housing/main). There is the option to publish interactive html maps using plotly that can be explored in a browser.  
 
