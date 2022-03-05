@@ -1,6 +1,6 @@
 # boston-housing
 
-## Metro Boston housing data analysis.   
+## Metro Boston Housing Data Analysis.   
 
 Description:
 Metro Boston housing prices and days on market for the period 2013-2021. Explore recent pricing trends (2019-2021) in an interactive [Streamlit App](https://share.streamlit.io/nchowes/boston-housing/main), and interactive maps for the period 2010-2020 via the links below. 
