@@ -21,7 +21,7 @@ Please see images below for thumbnail preview of the interactive links.
 
 
 #### 2020 Boston Housing Prices
-![prices-2020](figures/2020-boston-housing-median.png)
+![prices-2020](figures/boston-housing-2020.png)
 
 &nbsp;
 
