@@ -10,8 +10,6 @@ Metro Boston housing prices and days on market for the period 2013-2021. Explore
 
 ### Metro Boston Housing Interactive Maps 
 
-Please see thumbnail images 
-
 [2020 Boston Housing Prices](https://cold-agate-invert.s3.amazonaws.com/boston-housing/2020-boston-housing-median.html)  
 [2010 Boston Housing Prices](https://cold-agate-invert.s3.amazonaws.com/boston-housing/2010-boston-housing-median.html)  
 [Ten Year Price Change (2010-2020)](https://cold-agate-invert.s3.amazonaws.com/boston-housing/boston-housing-10yc-2010-2020.html)  
